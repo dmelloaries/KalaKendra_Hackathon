@@ -51,7 +51,7 @@ function ProductImageUpload({
     const data = new FormData();
     data.append("my_file", imageFile);
     const response = await axios.post(
-      "http://localhost:5001/api/admin/products/upload-image",
+      "https://kalakendra-hackathon.onrender.com/api/admin/products/upload-image",
       data
     );
     console.log(response, "response");

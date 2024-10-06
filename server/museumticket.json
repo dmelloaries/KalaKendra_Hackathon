@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "recruiterbot-426914",
+  "private_key_id": "ac2ef29591112ec810bdf2b6ee27b16122c7e5d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCh1vQvuKudoe4R\n4oOXU5vGX5z4MyAt8nOt8f41itvLWrdIwYCZ5LFxD6j1smI3WbHHhxRJvvwu2IRh\np2IEJ4EEKGHkITEcSRPTIW0Uk6wnlpFI4XUxxygODRTNx2kewQmrO9e7mg95+5co\nhUWDNU6m0NctihpIsqhru2QD4DFON+VKSKndii8w3I1XO/ZHgyjt05SrD6lFNJkL\nWES+GlRNB+8HzdNppdNALCdgJE9lH6NTp9kOG1CnG8DDyZEvrPdEoUbir88XIqLn\nxRJa0kMmDtGo7OkgN/ourEqKYFTOAwvu0AlbdNRGsPtyFhL3zQW1kJ3T0eeKEDqR\npjhJv9yLAgMBAAECggEANfYBch3tXsA8rErt3Fl8wY5kvJ7zVk6WQoPC4mBbu7iS\nDxixw94sScnSaKWjONhXvfLskVA0Lnxz20mflUoEqvm59gIZKVi2Wvm0sJ0yU/rQ\nk0/VLxU75j93Vcts4du0WRs5aaxLB72a32BcVozCHj3Y2S7IZ7/mBxGyndY1KmJR\nMGQgVPpF8f0qTH4Y8K4A+/9bl5hUZiPvhISfa3DyRYIOjP0dv8V/SNdeJlBG4FxC\nX5NcX2yYQSUNQ2IAsByhyBxSGQ0kSv1Uin9HHH4Oc/HdE5nxKdVAINL7G3k/TaVb\nUJfmR/+ngPzYoZ28BCRJAfyeskbYJA5LeXbmIUKOJQKBgQDi5R1l2aw5wOGiX3kz\ndw3cOZiOv8oj9f0flc361DHN79+jRKKwEnggpNafSlYKiBDEWwvqh7npqOENQqBS\ndS5ELO4MQGRezzombvLhzTZqd9VUTcwyZzmzt654G6JoAB4kFDrteaXJ4DROjGi6\noC9bjtKXMT7OSrPFQsVqaL0iZQKBgQC2mYWJUov1GDftshcba7k/TTHxTmcXZr/F\nIrXac8V2wmv+MaMndDfcNFAFArveH5IoSE54RxITMJElCKcn6sy/xY5brEp/UO13\nBTuWHHWFHUKEI74pDOf4MWyFo22NyBTYgddg+B8fGxCTWiLU9HtsrV5p/rRRmBa9\nQWaobD2cLwKBgEl9Yj85+MGgCrUX7V7RAelBsnsR/bwWEc1oLRZAIn2MY0gzk+op\noUUZfvaLEkFI/v1KbBqjqYDYFUTBPsJWeAzW7KeFN71Jq5EFQKAIYsarV6p9pFTz\nAEqIhPccJEdBOoH/F3MRgrRXbTm/2rAP8CbcpLMZ3TjeE0oiLWUg1ZnNAoGAfDWK\nJJNGKP7EbKgMF9b7OBgmtOKENeLq6ApocaT22YX/N/ZD6X6g0OW02PO3H62SGly1\nJBQUM4GB+hMcwYZyqLCV2b4lHt3J6oBgvAe32UjCCmjV3c6trKLSE0XMK/nCVFRe\nUdP2N46Ng+54ayuzGYYFB0z/E9HFBhAK6N5YOnkCgYBFWy1AfFRxRiCjLjzT5RHp\nz3JrVVqdQj/h7GqkdLaDqrlNmXzjHoU6XgJwgLDy/nibvh8ZE8ytCOg7WsVhmjEG\nLE+fnrzZKwj8ueKrsZgqMyveDxQ0Q0UaEc/LqT4F4j8FvLcyqpBBk8hYoswP+Ehv\nAkxWVsZeWaml89ZxOd8BSg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ticekting@recruiterbot-426914.iam.gserviceaccount.com",
+  "client_id": "110746507140979498221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ticekting%40recruiterbot-426914.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -25,20 +25,18 @@ const app = express();
 const PORT = process.env.PORT || 5001;
 
 console.log(PORT);
-
+app.use(cors());
 app.use(
   cors({
-    origin: "kala-kendra-hackathon.vercel.app",
-
-    methods: ["GET", "POST", "DELETE", "PUT"],
-    allowedHeaders: [
-      "Content-Type",
-      "Authorization",
-      "Cache-Control",
-      "Expires",
-      "Pragma",
+    origin: [
+      "http://localhost:5173",
+      
+      "kala-kendra-hackathon.vercel.app",
     ],
-    credentials: true,
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    preflightContinue: false,
+    optionsSuccessStatus: 204,
+    //allowedHeaders: ["Access-Control-Allow-Origin"],
   })
 );
 app.get("/", (req, res) => {

@@ -1,4 +1,3 @@
-
 require("dotenv").config(); // Load env variables at the start
 const express = require("express");
 const mongoose = require("mongoose");
@@ -29,7 +28,8 @@ console.log(PORT);
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "kala-kendra-hackathon.vercel.app",
+
     methods: ["GET", "POST", "DELETE", "PUT"],
     allowedHeaders: [
       "Content-Type",
@@ -41,10 +41,9 @@ app.use(
     credentials: true,
   })
 );
-app.get("/",(req,res)=>{
+app.get("/", (req, res) => {
   res.json("Server is live");
-
-})
+});
 app.use(cookieParser());
 app.use(express.json());
 app.use("/api/auth", authRouter);

@@ -5,10 +5,10 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "npm run build && node src/server.js",
     "dev": "nodemon server.js"
   },
-  "author": "sangam mukherjee",
+  "author": "Aries dmello",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/vertexai": "^1.8.1",

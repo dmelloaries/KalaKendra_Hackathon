@@ -138,11 +138,11 @@ export const shoppingViewHeaderMenuItems = [
     label: "Footwear",
     path: "/shop/listing",
   },
-  {
-    id: "Trade Fairs",
-    label: "Trade Fairs",
-    path: "/shop/listing",
-  },
+  // {
+  //   id: "Trade Fairs",
+  //   label: "Trade Fairs",
+  //   path: "/shop/listing",
+  // },
   
 ];
 
